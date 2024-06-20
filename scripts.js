@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
     const videoContainer = document.getElementById('video-container');
     const videos = [
         'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx',
-        'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx',
         'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx'
     ];
     videos.forEach(videoUrl => {
