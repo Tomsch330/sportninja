@@ -2,9 +2,9 @@
 document.addEventListener('DOMContentLoaded', function() {
     const videoContainer = document.getElementById('video-container');
     const videos = [
-        'https://www.youtube.com/embed/VIDEO_ID_1',
-        'https://www.youtube.com/embed/VIDEO_ID_2',
-        'https://www.youtube.com/embed/VIDEO_ID_3'
+        'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx',
+        'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx',
+        'https://www.youtube.com/embed/p6tVOMGuQMw?si=vadqQilyroeYFIHx'
     ];
     videos.forEach(videoUrl => {
         const iframe = document.createElement('iframe');
