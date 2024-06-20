@@ -1,0 +1,2 @@
+mkdir spoilerfreie-sportvideos
+cd spoilerfreie-sportvideos
